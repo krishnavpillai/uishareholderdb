@@ -1,0 +1,419 @@
+C:\Softwares\Python\Python37-32\python.exe C:/Users/Krishna/Desktop/Jatin/Project/database_share_transactions.py
+------------------------0-------------------------
+Olivia BID 2002-11-20 Buy 8.15 7 57.05
+Time 3.313512086868286
+Table Created Successfully..
+Data inserted Successfully...
+------------------------1-------------------------
+Olivia PG 2012-05-25 Buy 62.58 6 375.48
+Table Created Successfully..
+Data inserted Successfully...
+------------------------2-------------------------
+Liam PG 2018-01-17 Buy 90.56 10 905.6
+Table Created Successfully..
+Data inserted Successfully...
+------------------------3-------------------------
+Liam KO 2016-06-09 Buy 45.33 2 90.66
+Table Created Successfully..
+Data inserted Successfully...
+------------------------4-------------------------
+Liam BK 1999-12-01 Buy 42.13 10 421.3
+Table Created Successfully..
+Data inserted Successfully...
+------------------------5-------------------------
+Olivia DD 2005-02-14 Buy 73.16 9 658.44
+Time 26.911335706710815
+Table Created Successfully..
+Data inserted Successfully...
+------------------------6-------------------------
+Olivia DD 1992-04-07 Buy 28.88 8 231.04
+Table Created Successfully..
+Data inserted Successfully...
+------------------------7-------------------------
+Olivia JNJ 2016-02-26 Buy 106.82 4 427.28
+Table Created Successfully..
+Data inserted Successfully...
+------------------------8-------------------------
+Liam IBM 2002-04-10 Buy 88.45 3 265.35
+Table Created Successfully..
+Data inserted Successfully...
+------------------------9-------------------------
+Olivia BID 2001-08-21 Buy 16.6 5 83.0
+Table Created Successfully..
+Data inserted Successfully...
+------------------------10------------------------
+Olivia DD 2012-12-21 Buy 45.62 7 319.34
+Time 26.41852068901062
+Table Created Successfully..
+Data inserted Successfully...
+------------------------11------------------------
+Liam DD 1992-04-29 Buy 29.0 4 116.0
+Table Created Successfully..
+Data inserted Successfully...
+------------------------12------------------------
+Liam CL 1999-02-16 Buy 21.53 5 107.65
+Table Created Successfully..
+Data inserted Successfully...
+------------------------13------------------------
+Liam ED 2002-03-07 Buy 42.35 3 127.05
+Table Created Successfully..
+Data inserted Successfully...
+------------------------14------------------------
+Liam ED 2018-01-31 Buy 79.69 6 478.14
+Table Created Successfully..
+Data inserted Successfully...
+------------------------15------------------------
+Olivia KO 2014-03-04 Buy 38.34 10 383.4
+Time 27.875392198562622
+Table Created Successfully..
+Data inserted Successfully...
+------------------------16------------------------
+Liam DD 1997-07-01 Buy 41.27 2 82.54
+Table Created Successfully..
+Data inserted Successfully...
+------------------------17------------------------
+Olivia PG 2012-05-11 Buy 64.06 9 576.54
+Table Created Successfully..
+Data inserted Successfully...
+------------------------18------------------------
+Liam ED 1991-07-18 Buy 24.5 2 49.0
+Table Created Successfully..
+Data inserted Successfully...
+------------------------19------------------------
+Olivia KO 1994-11-28 Buy 12.97 7 90.79
+Table Created Successfully..
+Data inserted Successfully...
+------------------------20------------------------
+Olivia PG 2009-06-04 Buy 53.76 8 430.08
+Time 21.272772789001465
+Table Created Successfully..
+Data inserted Successfully...
+------------------------21------------------------
+Liam BK 2001-05-18 Buy 57.29 6 343.74
+Table Created Successfully..
+Data inserted Successfully...
+------------------------22------------------------
+Liam BK 2007-12-06 Buy 48.23 4 192.92
+Table Created Successfully..
+Data inserted Successfully...
+------------------------23------------------------
+Olivia IBM 2010-12-22 Buy 145.66 3 436.98
+Table Created Successfully..
+Data inserted Successfully...
+------------------------24------------------------
+Liam JNJ 2005-06-10 Buy 66.5 3 199.5
+Table Created Successfully..
+Data inserted Successfully...
+------------------------25------------------------
+Olivia JNJ 1997-08-06 Buy 30.78 6 184.68
+Time 19.431280612945557
+Table Created Successfully..
+Data inserted Successfully...
+------------------------26------------------------
+Olivia IBM 2010-04-08 Buy 128.04 6 768.24
+Table Created Successfully..
+Data inserted Successfully...
+------------------------27------------------------
+Liam PG 2017-11-07 Buy 86.04 6 516.24
+Table Created Successfully..
+Data inserted Successfully...
+------------------------28------------------------
+Olivia JNJ 1990-12-18 Buy 8.78 5 43.9
+Table Created Successfully..
+Data inserted Successfully...
+------------------------29------------------------
+Liam CI 1994-02-08 Buy 7.44 4 29.76
+Table Created Successfully..
+Data inserted Successfully...
+------------------------30------------------------
+Liam PFE 2006-04-17 Buy 24.42 10 244.2
+Time 16.244946718215942
+Table Created Successfully..
+Data inserted Successfully...
+------------------------31------------------------
+11 cannot unpack non-iterable bool object
+------------------------32------------------------
+Olivia JNJ 2011-05-24 Buy 65.74 10 657.4
+Table Created Successfully..
+Data inserted Successfully...
+------------------------33------------------------
+Liam JNJ 2013-06-12 Buy 85.18 7 596.26
+Table Created Successfully..
+Data inserted Successfully...
+------------------------34------------------------
+Liam IBM 2015-11-19 Buy 136.21 8 1089.68
+Table Created Successfully..
+Data inserted Successfully...
+------------------------35------------------------
+Olivia ED 2019-01-17 Buy 76.35 6 458.1
+Time 15.632340431213379
+Table Created Successfully..
+Data inserted Successfully...
+------------------------36------------------------
+Olivia AGN 2011-01-21 Buy 53.31 6 319.86
+Table Created Successfully..
+Data inserted Successfully...
+------------------------37------------------------
+Liam PFE 2014-10-29 Buy 29.15 2 58.3
+Table Created Successfully..
+Data inserted Successfully...
+------------------------38------------------------
+Liam JNJ 1997-05-19 Buy 30.25 7 211.75
+Table Created Successfully..
+Data inserted Successfully...
+------------------------39------------------------
+Liam IBM 2010-07-14 Buy 129.32 5 646.6
+Table Created Successfully..
+Data inserted Successfully...
+------------------------40------------------------
+Liam AGN 1994-02-01 Buy 13.62 3 40.86
+Time 17.008355379104614
+Table Created Successfully..
+Data inserted Successfully...
+------------------------41------------------------
+Olivia BK 2007-01-29 Buy 42.59 8 340.72
+Table Created Successfully..
+Data inserted Successfully...
+------------------------42------------------------
+Liam DD 2008-04-14 Buy 54.55 8 436.4
+Table Created Successfully..
+Data inserted Successfully...
+------------------------43------------------------
+Liam KO 2000-02-22 Buy 25.69 6 154.14
+Table Created Successfully..
+Data inserted Successfully...
+------------------------44------------------------
+Olivia CL 2000-05-16 Buy 29.53 6 177.18
+Table Created Successfully..
+Data inserted Successfully...
+------------------------45------------------------
+Olivia BK 2003-10-09 Buy 33.36 4 133.44
+Time 15.079684257507324
+Table Created Successfully..
+Data inserted Successfully...
+------------------------46------------------------
+Liam AGN 2011-04-04 Buy 56.66 9 509.94
+Table Created Successfully..
+Data inserted Successfully...
+------------------------47------------------------
+Liam KO 2013-06-14 Buy 40.38 9 363.42
+Table Created Successfully..
+Data inserted Successfully...
+------------------------48------------------------
+Liam PG 2013-06-07 Buy 77.44 3 232.32
+Table Created Successfully..
+Data inserted Successfully...
+------------------------49------------------------
+Liam BK 1992-01-06 Buy 4.14 4 16.56
+Table Created Successfully..
+Data inserted Successfully...
+------------------------50------------------------
+Liam ED 2018-05-03 Buy 79.24 5 396.2
+Time 13.700668096542358
+Table Created Successfully..
+Data inserted Successfully...
+------------------------51------------------------
+Olivia DD 2017-05-01 Buy 89.89 8 719.12
+Table Created Successfully..
+Data inserted Successfully...
+------------------------52------------------------
+Olivia KO 2003-11-05 Buy 23.39 6 140.34
+Table Created Successfully..
+Data inserted Successfully...
+------------------------53------------------------
+Liam IBM 2006-08-04 Buy 76.65 3 229.95
+Table Created Successfully..
+Data inserted Successfully...
+------------------------54------------------------
+Liam CI 2012-11-06 Buy 52.94 9 476.46
+Table Created Successfully..
+Data inserted Successfully...
+------------------------55------------------------
+Liam ED 2011-11-22 Buy 57.54 5 287.7
+Time 13.785649299621582
+Table Created Successfully..
+Data inserted Successfully...
+------------------------56------------------------
+Liam DD 2018-10-02 Buy 92.37 3 277.11
+Table Created Successfully..
+Data inserted Successfully...
+------------------------57------------------------
+Olivia BK 2012-10-16 Buy 23.28 2 46.56
+Table Created Successfully..
+Data inserted Successfully...
+------------------------58------------------------
+Liam KO 2002-04-18 Buy 26.98 3 80.94
+Table Created Successfully..
+Data inserted Successfully...
+------------------------59------------------------
+Olivia IBM 2012-07-10 Buy 190.3 7 1332.1
+Table Created Successfully..
+Data inserted Successfully...
+------------------------60------------------------
+Liam KO 2013-05-29 Buy 42.34 2 84.68
+Time 21.228397846221924
+Table Created Successfully..
+Data inserted Successfully...
+------------------------61------------------------
+Liam BID 2006-03-01 Buy 21.2 2 42.4
+Table Created Successfully..
+Data inserted Successfully...
+------------------------62------------------------
+Olivia BID 2009-07-22 Buy 13.5 10 135.0
+Table Created Successfully..
+Data inserted Successfully...
+------------------------63------------------------
+Liam BID 2005-04-14 Buy 17.88 4 71.52
+Table Created Successfully..
+Data inserted Successfully...
+------------------------64------------------------
+Olivia CI 2006-02-15 Buy 40.51 4 162.04
+Table Created Successfully..
+Data inserted Successfully...
+------------------------65------------------------
+Olivia BK 1998-02-06 Buy 29.88 3 89.64
+Time 22.034313440322876
+Table Created Successfully..
+Data inserted Successfully...
+------------------------66------------------------
+11 cannot unpack non-iterable bool object
+------------------------67------------------------
+Liam CI 1997-01-23 Buy 17.33 2 34.66
+Table Created Successfully..
+Data inserted Successfully...
+------------------------68------------------------
+Liam DD 1998-01-27 Buy 43.05 2 86.1
+Table Created Successfully..
+Data inserted Successfully...
+------------------------69------------------------
+Olivia CL 2008-09-26 Buy 37.62 10 376.2
+Table Created Successfully..
+Data inserted Successfully...
+------------------------70------------------------
+Olivia DD 2011-05-17 Buy 53.33 3 159.99
+Time 12.178770780563354
+Table Created Successfully..
+Data inserted Successfully...
+------------------------71------------------------
+Liam KO 2019-08-30 Buy 55.16 2 110.32
+Table Created Successfully..
+Data inserted Successfully...
+------------------------72------------------------
+11 cannot unpack non-iterable bool object
+------------------------73------------------------
+Olivia BK 2002-06-19 Buy 36.94 3 110.82
+Table Created Successfully..
+Data inserted Successfully...
+------------------------74------------------------
+Liam CI 2000-04-20 Buy 26.25 9 236.25
+Table Created Successfully..
+Data inserted Successfully...
+------------------------75------------------------
+Liam IBM 2013-03-19 Buy 214.13 3 642.39
+Time 21.435932636260986
+Table Created Successfully..
+Data inserted Successfully...
+------------------------76------------------------
+Liam PFE 1990-12-20 Buy 3.34 5 16.7
+Table Created Successfully..
+Data inserted Successfully...
+------------------------77------------------------
+Olivia BID 2017-02-10 Buy 41.61 9 374.49
+Table Created Successfully..
+Data inserted Successfully...
+------------------------78------------------------
+Olivia BK 1999-02-09 Buy 34.85 6 209.1
+Table Created Successfully..
+Data inserted Successfully...
+------------------------79------------------------
+Liam BK 1991-09-13 Buy 4.14 3 12.42
+Table Created Successfully..
+Data inserted Successfully...
+------------------------80------------------------
+Olivia BID 1997-01-08 Buy 18.75 10 187.5
+Time 22.99190878868103
+Table Created Successfully..
+Data inserted Successfully...
+------------------------81------------------------
+Olivia BID 2008-05-16 Buy 28.53 5 142.65
+Table Created Successfully..
+Data inserted Successfully...
+------------------------82------------------------
+Olivia JNJ 2001-10-12 Buy 54.5 8 436.0
+Table Created Successfully..
+Data inserted Successfully...
+------------------------83------------------------
+Olivia ED 2012-10-02 Buy 59.24 6 355.44
+Table Created Successfully..
+Data inserted Successfully...
+------------------------84------------------------
+Olivia KO 2002-11-27 Buy 22.5 5 112.5
+Table Created Successfully..
+Data inserted Successfully...
+------------------------85------------------------
+Olivia KO 1993-08-25 Buy 11.03 9 99.27
+Time 26.805886030197144
+Table Created Successfully..
+Data inserted Successfully...
+------------------------86------------------------
+Olivia BK 1995-03-10 Buy 8.15 9 73.35
+Table Created Successfully..
+Data inserted Successfully...
+------------------------87------------------------
+Liam JNJ 2011-08-04 Buy 62.61 3 187.83
+Table Created Successfully..
+Data inserted Successfully...
+------------------------88------------------------
+Olivia DD 1993-06-18 Buy 26.57 3 79.71
+Table Created Successfully..
+Data inserted Successfully...
+------------------------89------------------------
+Olivia IBM 1995-08-23 Buy 27.03 3 81.09
+Table Created Successfully..
+Data inserted Successfully...
+------------------------90------------------------
+Olivia ED 2019-05-09 Buy 84.0 7 588.0
+Time 10.22355055809021
+Table Created Successfully..
+Data inserted Successfully...
+------------------------91------------------------
+Olivia CL 2006-07-18 Buy 30.54 4 122.16
+Table Created Successfully..
+Data inserted Successfully...
+------------------------92------------------------
+Liam BID 2011-03-07 Buy 49.23 8 393.84
+Table Created Successfully..
+Data inserted Successfully...
+------------------------93------------------------
+Olivia DD 1997-11-11 Buy 43.05 8 344.4
+Table Created Successfully..
+Data inserted Successfully...
+------------------------94------------------------
+Liam BID 2001-04-30 Buy 18.6 10 186.0
+Table Created Successfully..
+Data inserted Successfully...
+------------------------95------------------------
+Olivia PFE 2003-11-13 Buy 32.3 7 226.1
+Time 21.391239643096924
+Table Created Successfully..
+Data inserted Successfully...
+------------------------96------------------------
+Olivia CI 2012-06-26 Buy 44.71 2 89.42
+Table Created Successfully..
+Data inserted Successfully...
+------------------------97------------------------
+Liam AGN 2000-08-28 Buy 60.75 2 121.5
+Table Created Successfully..
+Data inserted Successfully...
+------------------------98------------------------
+Liam JNJ 1997-03-04 Buy 29.19 6 175.14
+Table Created Successfully..
+Data inserted Successfully...
+------------------------99------------------------
+Liam ED 2012-08-03 Buy 64.92 10 649.2
+Table Created Successfully..
+Data inserted Successfully...
+-384.16485476493835
+Completed Cycle
+
+Process finished with exit code 0
